@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![best-girl](/src/best_girl.png)
+![best-girl](./src/best_girl.png)
 
 
 <!--
