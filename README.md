@@ -2,7 +2,7 @@
 
 Now. Get out.
 
-![best-girl](https://github.com/xelav/xelav/blob/master/src/best_girl.png
+![best-girl](https://github.com/xelav/xelav/blob/master/src/best_girl.png)
 
 
 <!--
