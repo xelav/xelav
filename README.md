@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![best-girl](./src/best_girl.png)
+Now. Get out.
+
+![best-girl](https://github.com/xelav/xelav/blob/master/src/best_girl.png
 
 
 <!--
